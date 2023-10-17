@@ -9,4 +9,5 @@ I did my PhD at the **University of Amsterdam**, working on Quantum Chromodynami
 
 Afterwards, I moved to Hamburg to pursue a postdoc at **DESY**, where I worked on Standard Model predictions for the Higgs Boson for the **LHC at CERN**. 
 
+After my postdoc I left academia for the industry, and currently work as a software engineer. 
 
