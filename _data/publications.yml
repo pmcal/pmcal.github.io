@@ -1,36 +1,37 @@
 index:
-- collaborators: 'F. Ringer and W. J. Waalewijn',
-  title: 'The jet shape at NLL'
-  journal: 'yo'
-  arxiv: '[arXiv:1901.06389 [hep-ph]]',
-  url: '/publications/1501.07274.pdf'
+- {name: ' F. Ringer and W. J. Waalewijn', url: '/publications/1501.07274.pdf'}
+# - collaborators: 'F. Ringer and W. J. Waalewijn',
+#   title: 'The jet shape at NLL'
+#   journal: 'yo'
+#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
+#   url: '/publications/1501.07274.pdf'
 
-- collaborators: 'F. Ringer and W. J. Waalewijn',
-  title: 'The jet shape at NLL'
-  journal: 'yo'
-  arxiv: '[arXiv:1901.06389 [hep-ph]]',
-  url: '/publications/1501.07274.pdf'
+# - collaborators: 'F. Ringer and W. J. Waalewijn',
+#   title: 'The jet shape at NLL'
+#   journal: 'yo'
+#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
+#   url: '/publications/1501.07274.pdf'
 
-- collaborators: 'F. Ringer and W. J. Waalewijn',
-  title: 'The jet shape at NLL'
-  journal: 'yo'
-  arxiv: '[arXiv:1901.06389 [hep-ph]]',
-  url: '/publications/1501.07274.pdf'
+# - collaborators: 'F. Ringer and W. J. Waalewijn',
+#   title: 'The jet shape at NLL'
+#   journal: 'yo'
+#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
+#   url: '/publications/1501.07274.pdf'
 
-- collaborators: 'F. Ringer and W. J. Waalewijn',
-  title: 'The jet shape at NLL'
-  journal: 'yo'
-  arxiv: '[arXiv:1901.06389 [hep-ph]]',
-  url: '/publications/1501.07274.pdf'
+# - collaborators: 'F. Ringer and W. J. Waalewijn',
+#   title: 'The jet shape at NLL'
+#   journal: 'yo'
+#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
+#   url: '/publications/1501.07274.pdf'
 
-- collaborators: 'F. Ringer and W. J. Waalewijn',
-  title: 'The jet shape at NLL'
-  journal: 'yo'
-  arxiv: '[arXiv:1901.06389 [hep-ph]]',
-  url: '/publications/1501.07274.pdf'
+# - collaborators: 'F. Ringer and W. J. Waalewijn',
+#   title: 'The jet shape at NLL'
+#   journal: 'yo'
+#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
+#   url: '/publications/1501.07274.pdf'
 
-- collaborators: 'F. Ringer and W. J. Waalewijn',
-  title: 'The jet shape at NLL'
-  journal: 'yo'
-  arxiv: '[arXiv:1901.06389 [hep-ph]]',
-  url: '/publications/1501.07274.pdf'
+# - collaborators: 'F. Ringer and W. J. Waalewijn',
+#   title: 'The jet shape at NLL'
+#   journal: 'yo'
+#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
+#   url: '/publications/1501.07274.pdf'
