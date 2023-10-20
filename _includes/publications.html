@@ -2,7 +2,8 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
       {% for item in site.data.publications.index %}
-        <p><b>P. Cal</b>, {{ item.collaborators }} <a href="{{ item.url }}">{{ item.arxiv }}</a></p>
+        <p><b>P. Cal</b>, {{ item.collaborators }}, <i>{{item.title}}</i>,
+          <a href="{{ item.url }}">{{ item.arxiv }}</a></p>
       {% endfor %}
   </div>
 </div>
