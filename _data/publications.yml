@@ -1,57 +1,32 @@
 index:
-- collaborators: 'bro'
-  title: 's'
+- collaborators: 'M. Lim, R. von Kuk, F. Tackmann'
+  title: "The qT spectrum for Higgs production via heavy quark annihilation at N3LL'+N3LO "
   journal: 'a'
   arxiv: 'm'
   url: 'bro'
-- collaborators: 'bro'
-  title: 's'
+- collaborators: 'J. Thaler, W. J. Waalewijn'
+  title: 'Power counting energy flow polynomials'
   journal: 'a'
   arxiv: 'm'
   url: 'bro'
-- collaborators: 'bro'
-  title: 's'
+- collaborators: 'K. Lee, F. Ringer, W. J. Waalewijn'
+  title: 'The soft drop momentum sharing fraction zg beyond leading-logarithmic accuracy'
   journal: 'a'
   arxiv: 'm'
   url: 'bro'
-- collaborators: 'bro'
-  title: 's'
+- collaborators: 'K. Lee, F. Ringer, W. J. Waalewijn'
+  title: 'Jet energy drop'
   journal: 'a'
   arxiv: 'm'
   url: 'bro'
-  
-# - collaborators: 'F. Ringer and W. J. Waalewijn',
-#   title: 'The jet shape at NLL'
-#   journal: 'yo'
-#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
-#   url: '/publications/1501.07274.pdf'
+- collaborators: 'D. Neill, F. Ringer, W. J. Waalewijn'
+  title: 'Calculating the angle between jet axes'
+  journal: 'a'
+  arxiv: 'm'
+  url: 'bro'
+- collaborators: 'F. Ringer, W. J. Waalewijn'
+  title: 'The jet shape at NLL\''
+  journal: 'a'
+  arxiv: 'm'
+  url: 'bro'
 
-# - collaborators: 'F. Ringer and W. J. Waalewijn',
-#   title: 'The jet shape at NLL'
-#   journal: 'yo'
-#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
-#   url: '/publications/1501.07274.pdf'
-
-# - collaborators: 'F. Ringer and W. J. Waalewijn',
-#   title: 'The jet shape at NLL'
-#   journal: 'yo'
-#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
-#   url: '/publications/1501.07274.pdf'
-
-# - collaborators: 'F. Ringer and W. J. Waalewijn',
-#   title: 'The jet shape at NLL'
-#   journal: 'yo'
-#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
-#   url: '/publications/1501.07274.pdf'
-
-# - collaborators: 'F. Ringer and W. J. Waalewijn',
-#   title: 'The jet shape at NLL'
-#   journal: 'yo'
-#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
-#   url: '/publications/1501.07274.pdf'
-
-# - collaborators: 'F. Ringer and W. J. Waalewijn',
-#   title: 'The jet shape at NLL'
-#   journal: 'yo'
-#   arxiv: '[arXiv:1901.06389 [hep-ph]]',
-#   url: '/publications/1501.07274.pdf'
