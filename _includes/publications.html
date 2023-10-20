@@ -7,7 +7,7 @@
       {% endfor %}
     {% else %}
       {% for item in site.data.publications.index %}
-        <p>This is a name: <a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p><b>P. Cal</b>, {{item.collaborators}}, <a href="{{ item.url }}">{{ item.arxiv }}</a></p>
       {% endfor %}
     {% endif %}
   </div>
