@@ -4,10 +4,10 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/pmcal'}
+- {icon: 'twitter', link: 'https://twitter.com/_pedrocal'}
+- {icon: 'instagram', link: 'https://www.instagram.com/_pedro_cal/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/pedro-cal-a36a22233/'}
 
 contacts:
 - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
