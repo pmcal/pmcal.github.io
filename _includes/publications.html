@@ -3,7 +3,7 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
     <p>PhD. Thesis: <a href="https://inspirehep.net/files/501c6663231079b05e866ce0af8108cc"> <i> Jet Substructure at the LHC using SCET</i> </a></p>
       {% for item in site.data.publications.index %}
-        <p><b>P. Cal</b>, {{ item.collaborators }}, <i>{{ item.title }}</i>,
+        <p><br><b>P. Cal</b>, {{ item.collaborators }}, <i>{{ item.title }}</i>,
           {{ item.journal }}, 
           <a href="{{ item.url }}">[{{ item.arxiv }}]</a></p>
       {% endfor %}
