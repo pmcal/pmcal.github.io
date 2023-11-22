@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hello there, I am software engineer currently working at **Blue Yonder**.
+Hello there, my name is Pedro Cal and I am software engineer currently working at **Blue Yonder**.
 
 My background is in theoretical physics. I did my PhD at the **University of Amsterdam**, where my research focused on Quantum Chromodynamics - the theory of the strong force - and collider physics. 
 
