@@ -12,4 +12,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/pedro-cal-a36a22233/'}
 
 contacts:
-- {name: 'Pedro Cal', title: 'Software Engineer', email: 'dev[at]pedrocal[dot]com', image: 'assets/img/contact.jpg'}
+- {name: 'Pedro Cal', title: 'Software Engineer', email: 'me[at]pedrocal[dot]com', image: 'assets/img/contact.jpg'}
