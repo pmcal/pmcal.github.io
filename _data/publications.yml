@@ -1,7 +1,13 @@
 index:
+- collaborators: 'M. Lim, D. J. Scott, F. Tackmann and W. J. Waalewijn'
+  title: "The qT spectrum for Higgs production via heavy quark annihilation at N3LL'+N3LO "
+  journal: 'JHEP 03 (2025) 155'
+  arxiv: '2408.13301'
+  url: 'https://arxiv.org/abs/2408.13301'
+
 - collaborators: 'M. Lim, R. von Kuk and F. Tackmann'
   title: "The qT spectrum for Higgs production via heavy quark annihilation at N3LL'+N3LO "
-  journal: 'JHEP 09 (2022) 021'
+  journal: 'Phys.Rev.D 110 (2024) 7, 076005'
   arxiv: '2306.16458'
   url: 'https://arxiv.org/abs/2306.16458'
   
