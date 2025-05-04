@@ -3,10 +3,8 @@ layout: home
 title: "Home"
 ---
 
-Hello there, my name is Pedro Cal and I am software engineer currently working at **Blue Yonder**.
+Welcome! I'm Pedro — a software engineer and AI developer at **SAP Signavio**.
 
-My background is in theoretical physics. I did my PhD at the **University of Amsterdam** where my research focused on Quantum Chromodynamics - the theory of the strong force - and collider physics. 
+I began my journey in theoretical physics, earning a PhD from the **University of Amsterdam**, where I focused on Quantum Chromodynamics and collider physics. I then continued my research at **DESY** in Hamburg as a postdoctoral fellow, working on precise predictions for the Higgs boson at the Large Hadron Collider (LHC) at **CERN**.
 
-Afterwards I moved to Hamburg to pursue a postdoc at **DESY**, where I worked on Standard Model predictions for the Higgs Boson at the **LHC at CERN**. 
-
-After my postdoc I decided to leave academia for the tech industry. Nowadays I work as a software engineer, with strong interest in machine learning & data science.
+Following my postdoc, I chose to leave academia and have been working in the tech industry as a software engineer and AI developer since.
