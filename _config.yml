@@ -1,4 +1,4 @@
-url: "https://pedrocal.com"   # your full site URL
-baseurl: ""                   # empty because you’re at the root
+url: "https://pedrocal.com" # your full site URL
+baseurl: "" # empty because you’re at the root
 title: "Pedro Cal"
-description: "Welcome to my personal webpage"
+description: "Physics, AI, Software and much more"
