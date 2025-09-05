@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Welcome! I'm Pedro — a software engineer and AI developer at **SAP Signavio**.
+Welcome! I'm Pedro, a software engineer and AI developer at **SAP Signavio**.
 
 I began my journey in theoretical physics, earning a PhD from the **University of Amsterdam**, where I focused on Quantum Chromodynamics and collider physics. I then continued my research at **DESY** in Hamburg as a postdoctoral fellow, working on precise predictions for the Higgs boson at the Large Hadron Collider (LHC) at **CERN**.
 
